@@ -1,10 +1,5 @@
 User-agent: *
 Allow: /
 
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-Sitemap: https://sindorim-room-tip.link-hub.org/sitemap.xml
+Sitemap: https://balsan-hyperpublic-note.korinfo.shop/sitemap.xml
+Sitemap: https://balsan-hyperpublic-note.korinfo.shop/sitemap-pages.xml
